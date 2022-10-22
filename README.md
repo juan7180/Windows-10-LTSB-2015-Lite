@@ -1,4 +1,4 @@
-# Windows-10-LTSB-2015-Lite
+# Windows 10 LTSB 2015 Lite
 Removed:
 Leftover System Files
 WinSxS Backup + LZX Compression
