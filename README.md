@@ -17,3 +17,20 @@ added few tweak to make less cpu, ram usage
 ![png1](https://user-images.githubusercontent.com/113482741/197314633-e0f651d5-07cd-4bb3-b6fe-d9113957c483.PNG)
 ![png2](https://user-images.githubusercontent.com/113482741/197314634-3ea8ad42-feb6-426b-b89b-27f898f2f037.PNG)
 ![png3](https://user-images.githubusercontent.com/113482741/197314640-ea9e702e-b79d-407e-a6d2-fd4f45315265.PNG)
+# Security Policy
+
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.0x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :x: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+If You Found a security bug please send me an email at jmj.1329.juangamer@gmail.com
